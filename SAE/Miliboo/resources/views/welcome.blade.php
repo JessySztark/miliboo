@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>Welcome to my Application</h1>
+    <h1>Chez Jessy et ses petits acolytes !</h1>
 @endsection
